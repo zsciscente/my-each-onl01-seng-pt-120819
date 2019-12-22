@@ -1,3 +1,3 @@
-def my_each(arguements)
+def my_each
   
 end
