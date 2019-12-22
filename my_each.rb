@@ -1,6 +1,7 @@
 def my_each(arguements)
   counter = 0
-  while 
+  while arguements.length > counter 
+  
 end
 arguements
 end
